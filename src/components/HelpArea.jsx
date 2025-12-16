@@ -19,6 +19,7 @@ const HELP_ITEMS = [
   },
 ];
 
+//add comment to learn about workflow skipping 
 function HelpArea() {
   return (
     <section data-testid="help-area" id="help-area">
